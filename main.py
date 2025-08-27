@@ -10,3 +10,7 @@ def main():
     #TODO : work on INformation extraction model
     #TODO : build a database to store the information
     pass
+
+if __name__ == "__main__":
+    dir_path  = "C:/image search/images"
+    

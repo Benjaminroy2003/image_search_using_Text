@@ -1,4 +1,6 @@
 class image_to_text():
+    def __init__(self, image_path):
+        pass
     def model(self):
         # model initialization
         pass
