@@ -4,4 +4,9 @@ def main():
     #3) extract information from the image 
     #4)combine the image information with the text information
     #5) store it in a database
+
+
+    #TODO : build a classifier to classify the image type
+    #TODO : work on INformation extraction model
+    #TODO : build a database to store the information
     pass
